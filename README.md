@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### About me
 - Freelance IT
 - Student at Hogent
+- www.arnocuyvers.be ( <- soon more here )
 
 ### Can do!
 <div>
