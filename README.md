@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 ### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnz3&theme=dark&count_private=true&show_icons=true)
+
+#### some more projects i worked on
+![Here](https://github.com/vanhouckedre-be)
