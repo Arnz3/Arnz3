@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Student at Hogent
 - www.arnocuyvers.be ( <- soon more here )
 
-### Can do!
+### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
@@ -34,9 +34,3 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/>
 </div>
-
-
-
-### Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnz3&theme=dark&count_private=true&show_icons=true)
